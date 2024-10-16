@@ -1,0 +1,24 @@
+.footer-box {
+    background-color: #333;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    position:fixed;
+  
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    width: 100%;
+    color: white;
+  text-align:center;
+  list-style: none;
+  }
+ .insta li{
+
+   color: black; /* Text color */
+    text-decoration: none; /* Remove underline */
+    padding: 15px; /* Add padding */}
